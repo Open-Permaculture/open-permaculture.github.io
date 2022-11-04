@@ -18,8 +18,8 @@ The goal of openpermaculture.com is to enable ease of access to information whil
 
 ## What is permaculture?
 
-Start <a href="https://openpermaculture.com/introduction.html">here</a>.
+Start <a href="https://open-permaculture.com/introduction.html">here</a>.
 
 ## How can I contribute?
 
-Learn how to contribute <a href="https://openpermaculture.com/CONTRIBUTING.html)>here</a>.
+Learn how to contribute <a href="https://open-permaculture.com/CONTRIBUTING.html)>here</a>.

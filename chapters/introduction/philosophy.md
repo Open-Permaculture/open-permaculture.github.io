@@ -8,4 +8,4 @@ grand_parent: Chapters
 
 # Philosophy
 
-This page needs information, learn how to contribute [here](https://openpermaculture.com/CONTRIBUTING.html).
+This page needs information, learn how to contribute [here](https://open-permaculture.com/CONTRIBUTING.html).

@@ -1,13 +1,13 @@
-![](https://openpermaculture.com/assets/images/kitbashery-github-banner.jpg)
-# openpermaculture.com
+![](https://open-permaculture.com/assets/images/kitbashery-github-banner.jpg)
+# open-permaculture.com
 
 The Open Permaculture website hosted by Github Pages.
 
 How to contribute:
-https://openpermaculture.com/CONTRIBUTING.html
+https://open-permaculture.com/CONTRIBUTING.html
 
 Jekyll theme (fork): 
-https://github.com/OpenPermaculture/just-the-docs
+https://github.com/Open-Permaculture/just-the-docs
 
 Jekyll theme (documentation):
 https://just-the-docs.github.io/just-the-docs/

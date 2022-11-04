@@ -11,7 +11,7 @@ search_exclude: true
 
 openpermaculture.com is hosted on GitHub pages. In order to contribute to openpermaculture.com you will need a GitHub account. 
 
-Once you have created a GitHub account navigate to the openpermaculture repository [here]().
+Once you have created a GitHub account navigate to the openpermaculture repository [here](https://github.com/Open-Permaculture/open-permaculture.github.io).
 
 There you will see the folder structure that contains the code for the website. Pages are .md files that allow you to write in a format similar to BB code found on most online forums.
 
@@ -29,7 +29,7 @@ There are three options for formatting text on a page, they can all be used at t
 
 * GitHub's [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (similar to BB code)
 * Raw [html](https://html.com/) code.
-* Jekyll [theme markdown](https://github.com/OpenPermaculture/just-the-docs/blob/main/docs/index-test.md). 
+* Jekyll [theme markdown](https://github.com/Open-Permaculture/just-the-docs/blob/main/docs/index-test.md). 
 
 ## Guidelines:
 

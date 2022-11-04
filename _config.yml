@@ -1,6 +1,6 @@
-remote_theme: openpermaculture/just-the-docs
+remote_theme: open-permaculture/just-the-docs
 
-title: openpermaculture.com
+title: open-permaculture.com
 
 # Color scheme supports "light" (default), "dark" and "custom"
 color_scheme: custom
@@ -12,7 +12,7 @@ mermaid:
 
 aux_links:
   "Contribute":
-    - "https://openpermaculture.com/contributing.html"
+    - "https://open-permaculture.com/contributing.html"
 
 # External navigation links
 nav_external_links:
@@ -20,5 +20,5 @@ nav_external_links:
     url: https://permies.com/forums
     hide_icon: false # set to true to hide the external link icon - defaults to false
   - title: Support Development
-    url: https://github.com/sponsors/OpenPermaculture
+    url: https://github.com/sponsors/Open-Permaculture
     hide_icon: false
