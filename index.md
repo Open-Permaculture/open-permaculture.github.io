@@ -22,4 +22,4 @@ Start <a href="https://open-permaculture.com/introduction.html">here</a>.
 
 ## How can I contribute?
 
-Learn how to contribute <a href="https://open-permaculture.com/CONTRIBUTING.html>here</a>.
+Learn how to contribute <a href="https://open-permaculture.com/CONTRIBUTING.html">here</a>.
