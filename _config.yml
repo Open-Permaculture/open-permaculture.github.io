@@ -1,0 +1,24 @@
+remote_theme: openpermaculture/just-the-docs
+
+title: openpermaculture.com
+
+# Color scheme supports "light" (default), "dark" and "custom"
+color_scheme: custom
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+aux_links:
+  "Contribute":
+    - "https://openpermaculture.com/contributing.html"
+
+# External navigation links
+nav_external_links:
+  - title: Permaculture Forums
+    url: https://permies.com/forums
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Support Development
+    url: https://github.com/sponsors/OpenPermaculture
+    hide_icon: false
