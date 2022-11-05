@@ -3,7 +3,9 @@ remote_theme: open-permaculture/just-the-docs
 title: Open Permaculture
 
 # Color scheme supports "light" (default), "dark" and "custom"
-color_scheme: light
+color_scheme: custom
+
+logo: "/assets/images/open-permaculture-favicon.png"
 
 mermaid:
   # Version of mermaid library
