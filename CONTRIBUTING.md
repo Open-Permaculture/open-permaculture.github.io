@@ -88,6 +88,7 @@ To add a new chapter create a new folder ```chapter-name``` add create a new fil
 layout: default
 title: Chapter Name
 nav_order: 1
+has_children: true
 parent: Chapters
 ---
 ```
