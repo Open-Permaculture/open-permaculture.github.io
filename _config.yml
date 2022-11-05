@@ -19,6 +19,9 @@ nav_external_links:
   - title: Permaculture Forums
     url: https://permies.com/forums
     hide_icon: false # set to true to hide the external link icon - defaults to false
-  - title: Support Development
-    url: https://github.com/sponsors/Open-Permaculture
+  - title: Permaculture Institute
+    url: https://permaculture.org/
+    hide_icon: false
+  - title: Design Manual
+    url: https://www.tagaripublications.com/
     hide_icon: false
