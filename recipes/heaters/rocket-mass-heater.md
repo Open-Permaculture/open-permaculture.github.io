@@ -3,6 +3,7 @@ layout: default
 title: Rocket Mass Heater
 nav_order: desc
 parent: Heaters
+grand_parent: Recipes
 ---
 
 # Rocket Mass Heater
