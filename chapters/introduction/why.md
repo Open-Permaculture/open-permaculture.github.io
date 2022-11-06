@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Philosophy
+title: Why
 nav_order: 2
 parent: Introduction
 grand_parent: Chapters
