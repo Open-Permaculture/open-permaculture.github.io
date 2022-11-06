@@ -3,6 +3,7 @@ layout: default
 title: Zeer Clay Pot
 nav_order: desc
 parent: Refrigeration
+grand_parent: Recipes
 ---
 
 # Zeer Clay Pot Fridge
