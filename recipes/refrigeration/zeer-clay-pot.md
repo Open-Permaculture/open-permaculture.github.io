@@ -26,7 +26,7 @@ The zeer clay pot is a simple refrigerator that cools its contents using evapora
 
 Using tape or puddy seal the drain hole of your clay pots.
 
-![](/assets/images/open-permaculture-zeer-pot-step-1.jpg)open-permaculture-zeer-pot-step-1.jpg
+![](/assets/images/open-permaculture-zeer-pot-step-1.jpg)
 
 ## Step 2:
 
