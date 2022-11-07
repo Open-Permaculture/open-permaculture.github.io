@@ -26,7 +26,7 @@ The zeer clay pot is a simple refrigerator that cools its contents using evapora
 
 Using tape or puddy seal the drain hole of your clay pots.
 
-![](assets/images/open-permaculture-zeer-pot-step-1.jpg)
+![](/assets/images/open-permaculture-zeer-pot-step-1.jpg)open-permaculture-zeer-pot-step-1.jpg
 
 ## Step 2:
 
@@ -36,7 +36,7 @@ Fill the bottom of the larger pot with sand and place the smaller pot inside so 
 
 Fill the space inbetween the pots with sand.
 
-![](assets/images/open-permaculture-zeer-pot-step-3.jpg)
+![](/assets/images/open-permaculture-zeer-pot-step-3.jpg)
 
 ## Step 4:
 
@@ -46,7 +46,7 @@ Water the sand untill it becomes damp.
 
 Place the item you would like to refrigerate inside the pot then cover the container with a cloth or lid.
 
-![](assets/images/open-permaculture-zeer-pot-step-5.jpg)
+![](/assets/images/open-permaculture-zeer-pot-step-5.jpg)
 
 ## Step 6:
 
