@@ -9,7 +9,7 @@ search_exclude: true
 
 ## Set up:
 
-openpermaculture.com is hosted on GitHub pages. In order to contribute to openpermaculture.com you will need a GitHub account. 
+open-permaculture.com is hosted on GitHub pages. In order to contribute to open-permaculture.com you will need a GitHub account. 
 
 Once you have created a GitHub account navigate to the openpermaculture repository [here](https://github.com/Open-Permaculture/open-permaculture.github.io).
 
