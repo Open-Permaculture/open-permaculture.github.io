@@ -49,7 +49,7 @@ When adding/changing text we want to ensure the voice (how pages read) remains c
 * DO NOT: Use profane or inappropriate language. No butts no nuts no coconuts.
 * DO NOT: Plagerize any images or text from other works without proper references. Citations should be made in MLA format.
 
-Keep in mind any information contributed will be released into public domain under the CC-BY-SA (Creative Commons By Attribution Sharealike license).
+Keep in mind any information contributed will be released into public domain under the [CC-BY-SA](https://github.com/Open-Permaculture/open-permaculture.github.io/blob/main/LICENSE) (Creative Commons By Attribution Sharealike license).
 
 The purpose of these guidelines is to make sure that the information is practical & actionable information without alienating any particular group. However, the "Why permaculture?" page will try to cover many of the different reasons why people may want to use it. 
 
