@@ -22,6 +22,6 @@ description needed.
 
 ## Video:
 
-<iframe width="420" height="315"
+<iframe width="740" height="550"
 src="https://www.youtube.com/embed/JWdoGNegNr4">
 </iframe>
