@@ -7,6 +7,7 @@ search_exclude: true
 
 # Contributing:
 
+
 ## Set up:
 
 open-permaculture.com is hosted on GitHub pages. In order to contribute to open-permaculture.com you will need a [GitHub](https://github.com/) account. 
@@ -15,17 +16,18 @@ Once you have created a GitHub account navigate to the openpermaculture reposito
 
 There you will see the folder structure that contains the code for the website. Pages are .md files that allow you to write in a format similar to BB code found on most online forums.
 
-You can download the entire website by clicking the green code button and then "Download ZIP" from there you can edit any pages you want. 
-![](/assets/images/github-contributing-download-zip.jpg)
-When you decide you are ready to post your changes you need to click the contribute button and upload the files you have modified. A moderator will then review your changes and merge them with the main repository.
-
-You may also create a fork of the project which will create a copy of the repository in your account's repositories which you may sync with the original or edit and request a merge.
-![](/assets/images/github-contributing-fork-repo.jpg)
+---
 
 ## Editing a page:
 
-If you just want to modify a single page then navigate to the page in the GitHub repo and click the pencil button, make your changes then open a pull request.
-![](/assets/images/github-contributing-edit-page.jpg)
+To modify a single page then navigate to the page in the GitHub repo and click the pencil button, make your changes then open a pull request.
+![](/assets/images/github-contributing-edit-file.jpg)
+
+If you want to edit multiple files at once you can download the entire website by clicking the green code button and then "Download ZIP" from there you can edit any pages you want.
+
+![](/assets/images/github-contributing-download-zip.jpg)
+
+When you decide you are ready to post your changes you need to click the contribute button and upload the files you have modified. A moderator will then review your changes and merge them with the main repository.
 
 ### Adding text:
 
@@ -34,6 +36,31 @@ There are three options for formatting text on a page, they can all be used at t
 * GitHub's [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (similar to BB code)
 * Raw [html](https://html.com/) code.
 * Jekyll [theme markdown](https://github.com/Open-Permaculture/just-the-docs/blob/main/docs/index-test.md). 
+
+### Adding an image:
+
+First, add your image to the assets/images folder. Ideally, the image should be a .jpg file and no more than 800px wide, .png & .gif are also supported.
+
+Add the image using:
+```
+![](/assets/images/open-permaculture-github-banner.jpg)
+```
+
+### Adding a YouTube video:
+
+```
+<iframe width="740" height="550"
+src="https://www.youtube.com/embed/your-video-id">
+</iframe>
+```
+
+Please be sure that embedded videos that include text and/or audio also conform to the guidelines.
+
+### Adding a graph:
+
+Jekyll theme markdown enables mermaid for graph rendering, see this [link](https://mermaid-js.github.io/mermaid/#/README) for how to use it.
+
+---
 
 ## Guidelines:
 
@@ -59,28 +86,15 @@ The purpose of these guidelines is to make sure that the information is practica
 
 If you would like to create information that is outside these guidelines for a specific people group or belief system you may create a fork of the project, however, the information approved for openpermaculture.com must remain a neutral baseline.
 
-### Adding an image:
+---
 
-First, add your image to the assets/images folder. Ideally, the image should be a .jpg file and no more than 800px wide, .png & .gif are also supported.
+## Creating a fork:
 
-Add the image using:
-```
-![](/assets/images/open-permaculture-github-banner.jpg)
-```
+Forking the project which will create a copy of the repository in your account's repositories which you may sync with the original or just to have your own copy you can edit and request a merge with open-permaculture.com via a pull request. You may also use your fork as the basis for a spin off project as long as you abide by the original [CC-BY-SA](https://github.com/Open-Permaculture/open-permaculture.github.io/blob/main/LICENSE) license.
 
-### Adding a YouTube video:
+![](/assets/images/github-contributing-fork-repo.jpg)
 
-```
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/your-video-id">
-</iframe>
-```
-
-Please be sure that embedded videos that include text and/or audio also conform to the guidelines.
-
-### Adding a graph:
-
-Jekyll theme markdown enables mermaid for graph rendering, see this [link](https://mermaid-js.github.io/mermaid/#/README) for how to use it.
+---
 
 ## Adding a new chapter/section:
 
